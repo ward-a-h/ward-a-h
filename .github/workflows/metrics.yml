@@ -37,3 +37,10 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_from: 200
           plugin_habits_days: 30
+
+          # Bio at the top of the dashboard
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+
+          # Lines of code added / removed
+          plugin_lines: yes
