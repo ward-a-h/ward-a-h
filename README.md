@@ -1,4 +1,3 @@
-# ward-a-h
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Hi,%20I'm%20Wardah&fontColor=ffffff&fontSize=42&animation=fadeIn" width="100%"/>
 
@@ -50,16 +49,7 @@ Hi, I'm **Wardah**, a Computer Science student at FAST NUCES Karachi. I like wor
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ward-a-h&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=ward-a-h&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ward-a-h&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ward-a-h&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="/github-metrics.svg" width="100%"/>
 </p>
 
 <!-- Footer -->
